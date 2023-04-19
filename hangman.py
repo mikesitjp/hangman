@@ -9,6 +9,8 @@ Created on Mon Oct 24 17:38:56 2022
 
 import random
 
+# 修正箇所
+print('test')
 
 def hangman():
     word_list = ["Python", "Java", "computer", "hacker", "painter"]
